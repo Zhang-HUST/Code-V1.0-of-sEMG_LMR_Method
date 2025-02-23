@@ -11,5 +11,3 @@ Use "Install.ipynb" to create the environment and dependencies, or install the r
 3. The "trainTest" folder includes multiple model training and testing techniques for deep learning and shallow machine learning models, as well as cases of training and testing using different models in both intra-subject and inter-subject scenarios.
 4. The "utils" folder includes some commonly used functions related to data preprocessing and feature extraction, visualization and complexity calculation of deep learning models, and some commonly used parameter settings.
 5. The "figures" folder includes the original files of all images appearing in the paper (.jpg format, 300 dpi).
-## Proposed Method:
-<img src="D:\学习研究\博士\论文规划\sEMG去噪和迁移学习\BSPC第一次修改\图片\jpg\Figure_1.jpg"/>
